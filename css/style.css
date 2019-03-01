@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: darkslategray;
+}
+.contain {
+    background: #fff;
+    margin: 5% 10%;
+    width: auto;
+    border-radius: 4px;
+    padding: 20px;
+}
+.bios {
+    padding: 24px;
+}
+.perfil-img {
+    background: url('https://avatars1.githubusercontent.com/u/33238294?s=460&v=4');
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.objetivo {
+    border-top: 1px solid #ccc;
+    padding: 24px;
+}
