@@ -22,8 +22,13 @@ body{
     width: 100px;
     border-radius: 100%;
 }
-
-.objetivo {
+section {
     border-top: 1px solid #ccc;
     padding: 24px;
+}
+.obj {
+    
+}
+.exp {
+
 }
