@@ -1,7 +1,9 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Ubuntu', sans-serif;
 }
+
 body{
     background: darkslategray;
 }
@@ -31,4 +33,7 @@ section {
 }
 .exp {
 
+}
+.topic{
+    font-weight: bold;
 }
