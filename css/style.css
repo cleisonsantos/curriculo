@@ -25,7 +25,7 @@ p{
     padding: 24px;
 }
 .perfil-img {
-    background: url('https://avatars1.githubusercontent.com/u/33238294?s=460&v=4');
+    background: url('../img/perfil2.png');
     background-size: cover;
     height: 100px;
     width: 100px;
